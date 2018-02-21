@@ -1,0 +1,36 @@
+#head{
+	text-align: center;
+	min-height: 500px;
+	padding-top: 90px;
+	background-image: url('head.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#cont{
+height: 220px;
+width: 200px;
+
+}
+
+
+
+@keyframes grow{
+	0%{font-size: 0.5em;}
+	25%{font-size: 0.7em;}
+	50%{font-size: 0.9em;}
+	75%{font-size: 1.0em;}
+	100%{font-size: 1.5em;}
+	
+}
+
+h1{
+	animation-duration: 2s;
+	animation-direction: alternate;
+	animation-name: grow;
+}
+
+#deco{
+font-size: 2em;
+}
