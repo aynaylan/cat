@@ -17,7 +17,7 @@
 	<div class="container-fluid">
 	
 		<ul class="nav navbar-nav">
-		<li><a href=""><span class="glyphicon glyphicon-home"></span></a></li>
+		<li><a href="1.php"><span class="glyphicon glyphicon-home"></span></a></li>
 		<li><a href=""></a></li>
 		<li><a href=""></a></li>
 
@@ -32,23 +32,28 @@
 
 	$nom =$_POST['n1'];
 
-	echo $nom;
+	echo " ".$nom;
 
 	?></h1>
+	<div id="deco"><p>Our grading system!</p></div>
+	
 	</div>
-	<form class="form form-group">
-		<b>Please fill in the spaces that are applicable to you!!</b><br>
-		Mathematics<input type="number" name="mao">
-		English<input type="number" name="eng">
-		Swahili<input type="number" name="swa">
-		Chemistry<input type="number" name="chem">
-		Physics<input type="number" name="phy">
-		Geography<input type="number" name="geo">
-		Computer<input type="number" name="comp">
-		Business<input type="number" name="bizna">
-		
 
-		<button type="submit">Calculate grade</button>
+	<div class=""></div>
+	<form class="form form-group" id="cus">
+		<b>Please fill in the spaces that are applicable to you!!</b><br>
+		Mathematics:<input type="number" name="mao">
+		English:<input type="number" name="eng"><br><br>
+		Swahili:<input type="number" name="swa">
+		Chemistry:<input type="number" name="chem"><br><br>
+		Physics:<input type="number" name="phy">
+		Geography:<input type="number" name="geo"><br><br>
+		Computer:<input type="number" name="comp">
+		Business:<input type="number" name="bizna"><br><br>
+		
+		<button type="reset" class="btn btn-danger">Reset</button>
+
+		<button type="submit" class="btn btn-success">Calculate grade</button>
 
 	</form>
 

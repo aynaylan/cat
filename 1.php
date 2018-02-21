@@ -29,7 +29,8 @@
 
 
 	<div class="row">
-		<div id="head">
+
+	<div id="head">
 	<h1>Lukenya Group of schools</h1>
 	<div id="deco">
 	<p>Motto:Strategy</p>
@@ -37,19 +38,37 @@
 	</div>
 	</div></div>
 
+	
 	<div class="row">
-		<div class="container">
-
-			<div class="md-6 lg-6">
-				<p>
-					Lukenya scholl is located in the outskirts of Nairobi County and at the foot of Lukenya Hills.It neighbours Daystar University Main Campus.The environment is well suited for learning as it is very far away from the industrial city.We usually engage our students in both cirriculum and co-cirriculum activities so as to create a sense of responsiblity at a tender age.
-				</p><img src="css/rg.png" id="cont">
+	
+			<div class="jumbotron">
+			<h4>Our Mission</h4>
+			<img src="css/2.jpg" height="150px" width="200px;" style="float: left;">
+			<p>lorem Lukenya scholl is located in the outskirts of Nairobi County and at the foot of Lukenya Hills.It neighbours Daystar University Main Campus.The environment is well suited for learning as it is very far away from the industrial city.We usually engage our students in both cirriculum and co-cirriculum activities so as to create a sense of responsiblity at a tender age.</p>
 			</div>
+		<div class="jumbotron">
+			<h4>Our Vision</h4>
+			<img src="css/2.jpg" height="150px" width="200px;" style="float: left;">
+			<p>lorem Lukenya scholl is located in the outskirts of Nairobi County and at the foot of Lukenya Hills.It neighbours Daystar University Main Campus.The environment is well suited for learning as it is very far away from the industrial city.We usually engage our students in both cirriculum and co-cirriculum activities so as to create a sense of responsiblity at a tender age.</p>
+		</div>
+		<div class="jumbotron">
+			<h4>Our Mission</h4>
+			<img src="css/2.jpg" height="150px" width="200px;" style="float: left;">
+			<p>lorem Lukenya scholl is located in the outskirts of Nairobi County and at the foot of Lukenya Hills.It neighbours Daystar University Main Campus.The environment is well suited for learning as it is very far away from the industrial city.We usually engage our students in both cirriculum and co-cirriculum activities so as to create a sense of responsiblity at a tender age.</p>
+		</div>
+			
+			
+
+	</div>
+
+	<br>
+
+	<div class="row">
+		
 
 		
 
-		<div class="md-6 lg-6">
-			
+			<h3>Register</h3>
 			<form class="form form-group" method="POST" action="vali.php">
 			First Name<input type="text" name="n1" required="">
 			Second Name<input type="text" name="n2"><br>
@@ -83,11 +102,11 @@
 			?>
 			<button type="submit" class="btn btn-success">Register</button>
 			</form>
-		</div>
+		
 
 
 	</div>
-	</div>
+	
 
 
 </div>
