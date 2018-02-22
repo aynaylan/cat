@@ -34,7 +34,7 @@
 	<h1>Lukenya Group of schools</h1>
 	<div id="deco">
 	<p>Motto:Strategy</p>
-	<p>Vision:To nurture good character and instill discipline and morals in the youth</p>
+	
 	</div>
 	</div></div>
 
@@ -48,13 +48,13 @@
 			</div>
 		<div class="jumbotron">
 			<h4>Our Vision</h4>
-			<img src="css/2.jpg" height="150px" width="200px;" style="float: left;">
-			<p>lorem Lukenya scholl is located in the outskirts of Nairobi County and at the foot of Lukenya Hills.It neighbours Daystar University Main Campus.The environment is well suited for learning as it is very far away from the industrial city.We usually engage our students in both cirriculum and co-cirriculum activities so as to create a sense of responsiblity at a tender age.</p>
+			<img src="css/3.jpg" height="150px" width="200px;" style="float: left;">
+			<p>To have a generarion with good values and character.Self driven and m,otivated youth who are ready for what the world is ready to offer to them</p>
 		</div>
 		<div class="jumbotron">
 			<h4>Our Mission</h4>
-			<img src="css/2.jpg" height="150px" width="200px;" style="float: left;">
-			<p>lorem Lukenya scholl is located in the outskirts of Nairobi County and at the foot of Lukenya Hills.It neighbours Daystar University Main Campus.The environment is well suited for learning as it is very far away from the industrial city.We usually engage our students in both cirriculum and co-cirriculum activities so as to create a sense of responsiblity at a tender age.</p>
+			<img src="css/4.jpg" height="150px" width="200px;" style="float: left;">
+			<p>We are looking forward to develop and instill morals,discipline and a hardworking spirit in our students by engaging them in objective driven activities such as community work and leadership sessions</p>
 		</div>
 			
 			
